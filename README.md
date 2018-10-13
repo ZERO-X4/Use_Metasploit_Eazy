@@ -16,6 +16,6 @@
 # 2.
 ![screenshot from 2018-10-13 13-00-28](https://user-images.githubusercontent.com/35383814/46904340-2f3d8f00-ceeb-11e8-8b33-4fd92c027c87.png)
 
-# 4.
+# 3.
 
 ![screenshot from 2018-10-13 13-00-28](https://user-images.githubusercontent.com/35383814/46904785-4f248100-cef2-11e8-828f-df6c38ad4047.png)
