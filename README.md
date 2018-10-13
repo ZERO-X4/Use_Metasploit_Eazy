@@ -10,4 +10,4 @@
 
 # tutorial with images
 
-![alt text](http://Use_Metasploit_Eazy/images/Screenshot from 2018-10-13 12-59-23.png)
+![Image description](http://Use_Metasploit_Eazy/images/Screenshot from 2018-10-13 12-59-23.png)
