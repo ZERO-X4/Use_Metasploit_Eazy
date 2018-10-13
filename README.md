@@ -10,4 +10,4 @@
 
 # tutorial with images
 
-img src="images/Screenshot from 2018-10-13 12-59-23.png"
+![](images/Screenshot from 2018-10-13 12-59-23.png)
