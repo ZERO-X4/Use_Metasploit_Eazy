@@ -1,5 +1,3 @@
-= oooo
-
 # Steps Download This Script
 
 1. git clone https://github.com/yazeed33/Use_Metasploit_Eazy/
