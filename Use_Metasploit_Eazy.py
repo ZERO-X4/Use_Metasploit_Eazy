@@ -2,7 +2,7 @@ import os
 from colorama import Fore
 
 print (Fore.YELLOW + '[1] Start Attack')
-print (Fore.YELOOW + '[2] Exit')
+print (Fore.YELLOW + '[2] Exit')
 options = input(Fore.BLUE + '--> ')
 
 if options == 1:
