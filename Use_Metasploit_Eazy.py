@@ -45,7 +45,7 @@ if values == 1:
      print ''
      print (Fore.BLUE + '+++++++++++++++++++++++++++++++++++++++++++++++++')
      print (Fore.BLUE + '|                                               |')
-     print (Fore.BLUE + '|  output :   brute_force-more/output/{}.exe    |'.format(Path))
+     print (Fore.BLUE + '|  output : /Use_Metasploit_Eazy/output/{}.exe  |'.format(Path))
      print (Fore.BLUE + '|                                               |')
      print (Fore.BLUE + '|  Reverse : windows/meterpreter/reverse_tcp    |')
      print (Fore.BLUE + '|                                               |')
@@ -60,7 +60,7 @@ elif values == 2:
      print ''
      print (Fore.BLUE + '+++++++++++++++++++++++++++++++++++++++++++++++++')
      print (Fore.BLUE + '|                                               |')
-     print (Fore.BLUE + '|  output :  /brute_force-more/output/{}.apk    |'.format(Path))
+     print (Fore.BLUE + '|  output : /Use_Metasploit_Eazy/output/{}.apk  |'.format(Path))
      print (Fore.BLUE + '|                                               |')
      print (Fore.BLUE + '|  Reverse : android/meterpreter/reverse_tcp    |')
      print (Fore.BLUE + '|                                               |')
