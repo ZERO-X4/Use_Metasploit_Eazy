@@ -1,6 +1,3 @@
-[![Python 2.7]                [![Python 3]
-
-[![OS]
 
 # Steps Download This Script
 
