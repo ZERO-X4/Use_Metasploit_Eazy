@@ -1,3 +1,7 @@
+[![Python 2.7]                [![Python 3]
+
+[![OS]
+
 # Steps Download This Script
 
 1. git clone https://github.com/yazeed33/Use_Metasploit_Eazy/
