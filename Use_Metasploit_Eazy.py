@@ -9,7 +9,7 @@ if options == 1:
    os.system('clear')
    print (Fore.BLUE + '+++++++++++++++++++++++++++++++++++++++++-')
    print (Fore.BLUE + '|                                        |')
-   print (Fore.BLUE + '|       [-] created by yazeed33 [-]      |')
+   print (Fore.BLUE + '|[-] created by Yazeed Bilal (zerox4) [-]|')
    print (Fore.BLUE + '|                                        |')
    print (Fore.BLUE + '|+++++++++++++++++++++++++++++++++++++++++')
    LhOsT = raw_input(Fore.BLUE + ' Enter LHOST: ')
@@ -27,7 +27,7 @@ else:
 os.system('clear')
 print (Fore.BLUE + '+++++++++++++++++++++++++++++++++++++++++-')
 print (Fore.BLUE + '|                                        |')
-print (Fore.BLUE + '|       [-] created by yazeed33 [-]      |')
+print (Fore.BLUE + '|[-] created by Yazeed Bilal (zerox4) [-]|')
 print (Fore.BLUE + '|                                        |')
 print (Fore.BLUE + '|+++++++++++++++++++++++++++++++++++++++++')
 
