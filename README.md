@@ -7,7 +7,9 @@
 
 3. chmod +x *
 
-4. python Use_Metasploit_Eazy.py
+4. sudo pip install colorama
+
+5. python Use_Metasploit_Eazy.py
 
 # tutorial with images
 
